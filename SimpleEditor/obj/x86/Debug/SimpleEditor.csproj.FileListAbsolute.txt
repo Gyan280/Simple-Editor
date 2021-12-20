@@ -1,0 +1,38 @@
+C:\Users\Hath\documents\visual studio 2010\Projects\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.exe
+C:\Users\Hath\documents\visual studio 2010\Projects\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.pdb
+C:\Users\Hath\documents\visual studio 2010\Projects\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\Hath\documents\visual studio 2010\Projects\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hath\documents\visual studio 2010\Projects\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.csproj.GenerateResource.Cache
+C:\Users\Hath\documents\visual studio 2010\Projects\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.exe
+C:\Users\Hath\documents\visual studio 2010\Projects\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.pdb
+C:\Users\Hath\documents\visual studio 2010\Projects\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.frmAbout.resources
+C:\Users\F.O.P\Downloads\EditorMidSem\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.exe
+C:\Users\F.O.P\Downloads\EditorMidSem\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.pdb
+C:\Users\F.O.P\Downloads\EditorMidSem\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.exe
+C:\Users\F.O.P\Downloads\EditorMidSem\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.pdb
+C:\Users\F.O.P\Downloads\EditorMidSem\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\F.O.P\Downloads\EditorMidSem\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.frmAbout.resources
+C:\Users\F.O.P\Downloads\EditorMidSem\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\F.O.P\Downloads\EditorMidSem\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.csproj.GenerateResource.Cache
+C:\Users\F.O.P\Downloads\EditorMidSem\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.csprojResolveAssemblyReference.cache
+C:\Users\F.O.P\Downloads\EditorMidSem\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\F.O.P\Downloads\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.exe
+C:\Users\F.O.P\Downloads\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.pdb
+C:\Users\F.O.P\Downloads\Simple Editor\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.exe
+C:\Users\F.O.P\Downloads\Simple Editor\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.pdb
+C:\Users\F.O.P\Downloads\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.csprojResolveAssemblyReference.cache
+C:\Users\F.O.P\Downloads\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\F.O.P\Downloads\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\F.O.P\Downloads\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.frmAbout.resources
+C:\Users\F.O.P\Downloads\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\F.O.P\Downloads\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.csproj.GenerateResource.Cache
+C:\Users\F.O.P\Desktop\C# Projects\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.exe
+C:\Users\F.O.P\Desktop\C# Projects\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.pdb
+C:\Users\F.O.P\Desktop\C# Projects\Simple Editor\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.exe
+C:\Users\F.O.P\Desktop\C# Projects\Simple Editor\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.pdb
+C:\Users\F.O.P\Desktop\C# Projects\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.csprojResolveAssemblyReference.cache
+C:\Users\F.O.P\Desktop\C# Projects\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\F.O.P\Desktop\C# Projects\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\F.O.P\Desktop\C# Projects\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.frmAbout.resources
+C:\Users\F.O.P\Desktop\C# Projects\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\F.O.P\Desktop\C# Projects\Simple Editor\SimpleEditor\SimpleEditor\obj\x86\Debug\SimpleEditor.csproj.GenerateResource.Cache
